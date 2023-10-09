@@ -117,3 +117,23 @@ Además tenemos que comprobar que la reserva se ha ejecutado correctamente, para
 Y también vemos que en el Debian, en el mismo fichero que antes, se ha actualizado con la IP reservada.
 
 ![Imagen](img/Captura16.jpg "Imagen 16")
+
+
+# LOGS
+En última instancia vamos a explicar brevemente que son los logs y que función tienen.  
+Los log son ficheros de texto que registran cronológicamente todas las actividades e incidencias que ocurren en el sistema operativo o red en Linux.  
+Estos logs contienen información de muchos tipos, entre ellos estan:
+
+1. Paquetes que se instalan o desinstalan en el SO.
+2. Información sobre los accesos remotos al equipo.
+3. Los intentos fallidos de autenticación.
+4. Registros de errores que se dan en programas o servicios usados.
+5. Accesos o salidas que bloquea nuestro firewall
+
+Gracias a los logs de Linux podemos saber que esta pasando en nuestro equipo lo que nos ayuda para diferentes problemas, como por ejemplo:
+
+1. Detectar las causas de problemas del equipo o servidor.
+2. Registrar y detectar ataques informáticos.
+3. Detectar comportamientos no deseados de programas o servicios de nuestro equipo.
+4. Ver rendimiendo del equipo o servidor.
+5. Averiguar que ocurrió en una determinada actualización de un equipo.
